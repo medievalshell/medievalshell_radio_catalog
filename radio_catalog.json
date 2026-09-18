@@ -1,0 +1,314 @@
+[
+  {
+    "streamUrl": "https://radio21.streamabc.net/radio21-rammstein-mp3-192-3002006?sABC=6579s96p%230%230ss39181p19n42o43oss0o6oonqp69q6%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1702492524",
+    "id": "0",
+    "title": "Rammstein Radio",
+    "artist": "Rammstein",
+    "album": "All Songs",
+    "artUrl": "https://pbs.twimg.com/profile_images/1648238617012174848/wnao9PEI_400x400.jpg"
+  },
+  {
+    "streamUrl": "https://stream.zeno.fm/zduks2g88eytv?zs=1qmW0iqmQiONdS7UuiTenQ",
+    "id": "1",
+    "title": "System of a Down Radio",
+    "artist": "System of a Down",
+    "album": "All Songs",
+    "artUrl": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/2-best-seller-logo-music-soad-system-of-a-down-widodo-ganteng.jpg"
+  },
+  {
+    "streamUrl": "https://stream.zeno.fm/0ywacmiuayauv?zs=x2FvWr_nRAqsdaGGxea2Sg",
+    "id": "2",
+    "title": "Falling in Reverse Radio",
+    "artist": "Falling in Reverse",
+    "album": "All Songs",
+    "artUrl": "https://i.pinimg.com/originals/e3/ef/7e/e3ef7eb517205049387567f8e6394b46.jpg"
+  },
+  {
+    "streamUrl": "https://stream.zeno.fm/zhdphjrlr5xvv?zs=BU300jz5TpC_ugPAmmMF3w",
+    "id": "3",
+    "title": "nOSTalgia OST Radio",
+    "artist": "Medievalshell",
+    "album": "Medievalshell Selected",
+    "artUrl": "https://nfsmods.xyz/userdata/Medievalshell/MedievalShell.png"
+  },
+  {
+    "streamUrl": "https://stream.zeno.fm/rsswgzom9hvvv",
+    "id": "4",
+    "title": "Linkin Park Radio",
+    "artist": "Linkin Park",
+    "album": "All Songs",
+    "artUrl": "https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49"
+  },
+  {
+    "streamUrl": "https://stream.zeno.fm/002ycek3emkuv",
+    "id": "5",
+    "title": "The Weeknd Radio",
+    "artist": "The Weeknd",
+    "album": "All Songs",
+    "artUrl": "https://media.gqitalia.it/photos/617bfc03cfd58c6c98ac8fbf/16:9/w_4336,h_2439,c_limit/The%20Weeknd.jpg"
+  },
+  {
+    "streamUrl": "https://stream.zeno.fm/owwyhazmfgmuv",
+    "id": "6",
+    "title": "NFS Radio",
+    "artist": "Electronic Arts",
+    "album": "All Songs",
+    "artUrl": "https://cdn2.steamgriddb.com/icon/0e9a570f97a6f2a4e1326a10228176a4.ico"
+  },
+  {
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
+    "id": "7",
+    "title": "M2O",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.m2o.it/wp-content/themes/network-m2o/img/placeholder_video.jpg"
+  },
+  {
+    "streamUrl": "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8",
+    "id": "8",
+    "title": "RDS",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://media.rds.it/web/web-site-brandnew/RDS.jpg"
+  },
+  {
+    "streamUrl": "https://streamingv2.shoutcast.com/rtl-1025",
+    "id": "9",
+    "title": "RTL 102.5",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://myradioonline.it/public/uploads/radio_img/rtl-102-5/fb_cover.jpg"
+  },
+  {
+    "streamUrl": "http://shoutcast.rtl.it:3020",
+    "id": "10",
+    "title": "RTL 102.5 Best",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://banner2.cleanpng.com/20180703/ows/kisspng-rtl-102-5-italy-internet-radio-radio-italia-rtl-radio-5b3afe6472f521.4953574215305928684709.jpg"
+  },
+  {
+    "streamUrl": "http://shoutcast.rtl.it:3030",
+    "id": "11",
+    "title": "RTL 102.5 Italian Style",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.radiospeaker.it/wp-content/uploads/2015/06/rtl-italian-style-web-radio.jpg"
+  },
+  {
+    "streamUrl": "http://shoutcast.rtl.it:3040/",
+    "id": "12",
+    "title": "RTL 102.5 Groove",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://cdn-radiotime-logos.tunein.com/s94966g.png"
+  },
+  {
+    "streamUrl": "http://shoutcast.rtl.it:3070/",
+    "id": "13",
+    "title": "RTL 102.5 Lounge",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://digitalradio.it/wp-content/uploads/2020/01/RTL-102.5-Lounge.png"
+  },
+  {
+    "streamUrl": "https://streamingv2.shoutcast.com/radiofreccia",
+    "id": "14",
+    "title": "Radio Freccia",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://cloud.radiofreccia.it/radiofreccia/News/Writer/400x400/giulia-taiana-wo50f.jpg"
+  },
+  {
+    "streamUrl": "http://shoutcast.rtl.it:3030/stream/1/",
+    "id": "15",
+    "title": "Radio Zeta",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Radio_Zeta_-_Logo_2020.svg/260px-Radio_Zeta_-_Logo_2020.svg.png"
+  },
+  {
+    "streamUrl": "https://kisskiss.fluidstream.eu/KissKiss.mp3",
+    "id": "16",
+    "title": "Radio Kiss Kiss",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://kisskiss.it/wp-content/uploads/2021/06/logo_kk_white-1024x770.png"
+  },
+  {
+    "streamUrl": "https://kisskiss.fluidstream.eu/KKItalia.mp3",
+    "id": "17",
+    "title": "Radio Kiss Kiss Italia",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png"
+  },
+  {
+    "streamUrl": "http://ice08.fluidstream.net/KKNapoli.aac",
+    "id": "18",
+    "title": "Radio Kiss Kiss Napoli",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.mundonapoli.it/wp-content/uploads/2023/07/cropped-logo-kisskiss-napoli.png.webp"
+  },
+  {
+    "streamUrl": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio",
+    "id": "19",
+    "title": "Ciccio Riccio",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.radio.it/images/broadcasts/02/0f/17003/c300.png"
+  },
+  {
+    "streamUrl": "https://stream1.xdevel.com/audio1s975942-759/stream/icecast.audio",
+    "id": "20",
+    "title": "Ciccio Riccio 2 Discobox",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://lh4.googleusercontent.com/proxy/muJRCega2UGQAt5JytuBNIZ467lVCDnkPWg8d1kvO6ifQNH_imMNAq6l6FMLxGqBZGuEUuQkqQ"
+  },
+  {
+    "streamUrl": "http://icecast.unitedradio.it/Virgin.mp3",
+    "id": "21",
+    "title": "Virgin Radio",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Virgin_Radio_Italy_logo.svg/1200px-Virgin_Radio_Italy_logo.svg.png"
+  },
+  {
+    "streamUrl": "https://icecast.unitedradio.it/Radio105.mp3",
+    "id": "22",
+    "title": "Radio 105",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/it/archive/0/01/20210413082802%21105.png"
+  },
+  {
+    "streamUrl": "http://edge.radiomontecarlo.net/RMC.mp3",
+    "id": "23",
+    "title": "Radio Monte Carlo",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.radiomontecarlo.net/upload/1576750729971.png"
+  },
+  {
+    "streamUrl": "https://stream.rcs.revma.com/fxp289cp81uvv",
+    "id": "24",
+    "title": "Radio Monte Carlo 2",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://play-lh.googleusercontent.com/lzNnL7WyKdSBSec492T3Z2Se0ntCiRln1CdzoN2PsjtpQ7hFx4-xLL2atAOyi61ZbxI"
+  },
+  {
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
+    "id": "25",
+    "title": "Radio Deejay",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_Deejay.svg/1024px-Logo_Deejay.svg.png"
+  },
+  {
+    "streamUrl": "https://icecast.unitedradio.it/r101",
+    "id": "26",
+    "title": "R101",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/1200px-R101_-_Logo_2015.svg.png"
+  },
+  {
+    "streamUrl": "https://icy.unitedradio.it/Subasio.mp3",
+    "id": "27",
+    "title": "Radio Subasio",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/it/1/10/Logo-RSubasio.png"
+  },
+  {
+    "streamUrl": "http://onair11.xdevel.com:9990/",
+    "id": "28",
+    "title": "Radio Norba",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo_2021.png"
+  },
+  {
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/m2odance/live.m3u8",
+    "id": "29",
+    "title": "M2O Dance",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://digitalradio.it/wp-content/uploads/2020/01/m2o-dance.png"
+  },
+  {
+    "streamUrl": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
+    "id": "30",
+    "title": "RDS Relax",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://rdsrelax.it/images/logo.png"
+  },
+  {
+    "streamUrl": "https://icy.unitedradio.it/SubasioPiu.mp3",
+    "id": "31",
+    "title": "Radio Subasio +",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.radio.it/images/broadcasts/7a/2c/29690/c300.png"
+  },
+  {
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
+    "id": "32",
+    "title": "Radio Capital",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.radiospeaker.it/wp-content/uploads/2017/09/radio-capital-palinsesto-2017-2018.jpg"
+  },
+  {
+    "streamUrl": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+    "id": "33",
+    "title": "Radio Italia",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/2560px-Radio_Italia_logo_%282020%29.svg.png"
+  },
+  {
+    "streamUrl": "https://ice07.fluidstream.net:80/lovefm.mp3",
+    "id": "34",
+    "title": "Love FM",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://play-lh.googleusercontent.com/4FDgb8_eFYvVvBnwrc49qL5KELrb1kVqUl3yEC8OnCaGiGNaLghAL77hqK5KzxTXMlw"
+  },
+  {
+    "streamUrl": "https://icestreaming.rai.it/1.mp3",
+    "id": "35",
+    "title": "Rai Radio 1",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.fm-world.it/wp-content/uploads/2021/03/radio1-rai.png.webp"
+  },
+  {
+    "streamUrl": "https://icestreaming.rai.it/2.mp3",
+    "id": "36",
+    "title": "Rai Radio 2",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84164a5e3737b2596001ea8c17"
+  },
+  {
+    "streamUrl": "https://icestreaming.rai.it/3.mp3",
+    "id": "37",
+    "title": "Rai Radio 3",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://www.fm-world.it/wp-content/uploads/2023/04/radiotre.png"
+  },
+  {
+    "streamUrl": "https://sphera.fluidstream.eu/radio80.aac",
+    "id": "38",
+    "title": "Radio 80",
+    "artist": "DJ Set",
+    "album": "Radio",
+    "artUrl": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg"
+  }
+]
