@@ -310,5 +310,185 @@
     "artist": "DJ Set",
     "album": "Radio",
     "artUrl": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "http://www.lbc.co.uk/",
+    "title": "LBC London",
+    "album": "London, United Kingdom",
+    "streamUrl": "https://media-the.musicradio.com/LBCLondon",
+    "id": "world-e8CURqFY",
+    "artUrl": "https://www.google.com/s2/favicons?domain=lbc.co.uk&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.franceinfo.fr",
+    "title": "France Info 105.7",
+    "album": "Paris, France",
+    "streamUrl": "https://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+    "id": "world-zY5P7lth",
+    "artUrl": "https://www.google.com/s2/favicons?domain=franceinfo.fr&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.radioeins.de",
+    "title": "RBB Radio Eins 95.8 FM",
+    "album": "Berlin, Germany",
+    "streamUrl": "https://www.radioeins.de/livemp3",
+    "id": "world-kCs714b4",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radioeins.de&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://joe.nl",
+    "title": "JOE",
+    "album": "Amsterdam, Netherlands",
+    "streamUrl": "https://streams.radio.dpgmedia.cloud/redirect/joe_nl/mp3",
+    "id": "world-L1PNTsX0",
+    "artUrl": "https://www.google.com/s2/favicons?domain=joe.nl&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.cope.es/directos/madrid",
+    "title": "COPE Madrid",
+    "album": "Madrid, Spain",
+    "streamUrl": "https://flucast03-h-cloud.flumotion.com/cope/madrid.mp3",
+    "id": "world-RO3xvxeU",
+    "artUrl": "https://www.google.com/s2/favicons?domain=cope.es&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "http://www.rtp.pt/antena1",
+    "title": "Antena 1",
+    "album": "Lisbon, Portugal",
+    "streamUrl": "https://radiocast.rtp.pt/antena180a.mp3",
+    "id": "world-kJZ26vKM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=rtp.pt&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "http://www.smoothjazz247.com",
+    "title": "Smooth Jazz 24/7",
+    "album": "New York NY, United States",
+    "streamUrl": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "id": "world-1vlrqH6v",
+    "artUrl": "https://www.google.com/s2/favicons?domain=smoothjazz247.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "http://www.101smoothjazz.com",
+    "title": "101 Smooth Jazz",
+    "album": "Los Angeles CA, United States",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/2329_128.mp3",
+    "id": "world-zFDSxGwY",
+    "artUrl": "https://www.google.com/s2/favicons?domain=101smoothjazz.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.lamusica.com/stations/wrma",
+    "title": "Ritmo 95.7 FM WRMA",
+    "album": "Miami FL, United States",
+    "streamUrl": "https://liveaudio.lamusica.com/MIA_WRMA_icy",
+    "id": "world-JHDQHHsH",
+    "artUrl": "https://www.google.com/s2/favicons?domain=lamusica.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://radiomitre.cienradios.com",
+    "title": "Radio Mitre AM 790",
+    "album": "Buenos Aires, Argentina",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
+    "id": "world-0Hu94t7n",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiomitre.cienradios.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://jb.fm",
+    "title": "Radio JB FM 99,9",
+    "album": "Rio de Janeiro RJ, Brazil",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac",
+    "id": "world-2IS4841d",
+    "artUrl": "https://www.google.com/s2/favicons?domain=jb.fm&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.afnpacific.net/Local-Stations/Tokyo/",
+    "title": "AFN Eagle 810 AM Tokyo",
+    "album": "Tokyo, Japan",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3",
+    "id": "world-OjFb4M9Q",
+    "artUrl": "https://www.google.com/s2/favicons?domain=afnpacific.net&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://bigbradio.net/kpop",
+    "title": "Big B Radio - Kpop",
+    "album": "Seoul, South Korea",
+    "streamUrl": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "id": "world-sjd0AW7d",
+    "artUrl": "https://www.google.com/s2/favicons?domain=bigbradio.net&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.2gb.com",
+    "title": "2GB 873 AM",
+    "album": "Sydney, Australia",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3",
+    "id": "world-DiitcqaM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=2gb.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://www.680news.com",
+    "title": "680 News",
+    "album": "Toronto, Canada",
+    "streamUrl": "https://rogers-hls.leanstream.co/rogers/tor680.stream/icy",
+    "id": "world-B3DfRJRH",
+    "artUrl": "https://www.google.com/s2/favicons?domain=680news.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://radiocentroelfonografo.com/",
+    "title": "Radio Centro El Fonografo AM 690",
+    "album": "Mexico City, Mexico",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC.aac",
+    "id": "world-xNZ4GfTN",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiocentroelfonografo.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "http://radyo45lik.com",
+    "title": "Radyo 45'lik",
+    "album": "Istanbul, Turkiye",
+    "streamUrl": "https://stream.radyo45lik.com:4545/stream",
+    "id": "world-JGs1baAq",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radyo45lik.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "website": "https://tamil894fm.com",
+    "title": "Tamil FM 89.4",
+    "album": "Dubai, United Arab Emirates",
+    "streamUrl": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "id": "world-IAybhj75",
+    "artUrl": "https://www.google.com/s2/favicons?domain=tamil894fm.com&sz=256"
   }
 ]
