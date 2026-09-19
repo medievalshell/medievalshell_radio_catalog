@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
-  "apkUrl": "https://github.com/medievalshell/medievalshell_radio_catalog/releases/download/app-v1.2.8/medievalshell-radio-v1.2.8.apk",
-  "fileName": "medievalshell-radio-v1.2.8.apk",
-  "releaseUrl": "https://github.com/medievalshell/medievalshell_radio_catalog/releases/tag/app-v1.2.8",
-  "notes": "Aggiornamento automatico Medievalshell Radio 1.2.8.",
+  "version": "1.2.9",
+  "apkUrl": "https://github.com/medievalshell/medievalshell_radio_catalog/releases/download/app-v1.2.9/medievalshell-radio-v1.2.9.apk",
+  "fileName": "medievalshell-radio-v1.2.9.apk",
+  "releaseUrl": "https://github.com/medievalshell/medievalshell_radio_catalog/releases/tag/app-v1.2.9",
+  "notes": "Aggiornamento automatico Medievalshell Radio 1.2.9.",
   "size": 54095920,
   "minAndroidVersion": 21
 }
