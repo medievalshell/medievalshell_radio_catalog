@@ -29,7 +29,7 @@
     "title": "nOSTalgia OST Radio",
     "artist": "Medievalshell",
     "album": "Medievalshell Selected",
-    "artUrl": "https://nfsmods.xyz/userdata/Medievalshell/MedievalShell.png"
+    "artUrl": "https://avatars.githubusercontent.com/u/150498573?v=4"
   },
   {
     "streamUrl": "https://stream.zeno.fm/rsswgzom9hvvv",
@@ -165,7 +165,7 @@
     "title": "Ciccio Riccio 2 Discobox",
     "artist": "DJ Set",
     "album": "Radio",
-    "artUrl": "https://lh4.googleusercontent.com/proxy/muJRCega2UGQAt5JytuBNIZ467lVCDnkPWg8d1kvO6ifQNH_imMNAq6l6FMLxGqBZGuEUuQkqQ"
+    "artUrl": "https://www.google.com/s2/favicons?domain=ciccioriccio.it&sz=256"
   },
   {
     "streamUrl": "http://icecast.unitedradio.it/Virgin.mp3",
@@ -197,7 +197,7 @@
     "title": "Radio Monte Carlo 2",
     "artist": "DJ Set",
     "album": "Radio",
-    "artUrl": "https://play-lh.googleusercontent.com/lzNnL7WyKdSBSec492T3Z2Se0ntCiRln1CdzoN2PsjtpQ7hFx4-xLL2atAOyi61ZbxI"
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiomontecarlo.net&sz=256"
   },
   {
     "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
@@ -277,7 +277,7 @@
     "title": "Love FM",
     "artist": "DJ Set",
     "album": "Radio",
-    "artUrl": "https://play-lh.googleusercontent.com/4FDgb8_eFYvVvBnwrc49qL5KELrb1kVqUl3yEC8OnCaGiGNaLghAL77hqK5KzxTXMlw"
+    "artUrl": "https://www.google.com/s2/favicons?domain=lovefm.it&sz=256"
   },
   {
     "streamUrl": "https://icestreaming.rai.it/1.mp3",
@@ -490,5 +490,365 @@
     "streamUrl": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
     "id": "world-IAybhj75",
     "artUrl": "https://www.google.com/s2/favicons?domain=tamil894fm.com&sz=256"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-e7YTwKQf",
+    "website": "https://radioroma.it",
+    "title": "Radio Roma 104.0 FM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radioroma.it&sz=256",
+    "streamUrl": "https://nr9.newradio.it:9371/stream",
+    "album": "Rome, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-RfrRrZ7D",
+    "website": "https://www.radioatlanta.it",
+    "title": "Radio Atlanta Milano",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radioatlanta.it&sz=256",
+    "streamUrl": "https://sr7.inmystream.it/proxy/radioatlantamilano?mp=/stream.mp3",
+    "album": "Milan, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-fDlB7RrR",
+    "website": "https://napolilounge.it",
+    "title": "Napoli Lounge",
+    "artUrl": "https://www.google.com/s2/favicons?domain=napolilounge.it&sz=256",
+    "streamUrl": "https://s5.ssl-stream.com/stream/napolilounge",
+    "album": "Naples, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-Y2pJqqCG",
+    "website": "https://www.torinointernational.com",
+    "title": "Radio Torino International",
+    "artUrl": "https://www.google.com/s2/favicons?domain=torinointernational.com&sz=256",
+    "streamUrl": "https://stream15.top-ix.org:8000/radiotorinointernational",
+    "album": "Turin, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-ZZtEIIg0",
+    "website": "https://www.radiomargherita.com/ascolta-radio-margherita/",
+    "title": "Radio Margherita",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiomargherita.com&sz=256",
+    "streamUrl": "https://streaming.radiomargherita.com/stream/radiomargherita",
+    "album": "Palermo, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-BU9j7fHS",
+    "website": "https://www.radiocittafujiko.it",
+    "title": "Radio Citta Fujiko",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiocittafujiko.it&sz=256",
+    "streamUrl": "https://streaming.radiocittafujiko.it:8000/rcf.ogg",
+    "album": "Bologna, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-pDCLC4CI",
+    "website": "https://www.radiofirenze.it",
+    "title": "Radio Firenze FM 95.4",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiofirenze.it&sz=256",
+    "streamUrl": "https://sr14.inmystream.it/stream/radiofirenze/stream",
+    "album": "Florence, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-6wraE1bN",
+    "website": "https://www.babboleo.it",
+    "title": "Radio Babboleo",
+    "artUrl": "https://www.google.com/s2/favicons?domain=babboleo.it&sz=256",
+    "streamUrl": "https://n05a-eu.rcs.revma.com/abxzruqqv6bwv.m4a",
+    "album": "Genoa, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-BQvsRNpB",
+    "website": "https://www.radiopopizz.it",
+    "title": "Radio Popizz",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiopopizz.it&sz=256",
+    "streamUrl": "https://nr11.newradio.it/proxy/belviso2?mp=/stream",
+    "album": "Bari, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-4JFbMWVr",
+    "website": "https://www.studiocentrale.it",
+    "title": "RSC Radio Studio Centrale",
+    "artUrl": "https://www.google.com/s2/favicons?domain=studiocentrale.it&sz=256",
+    "streamUrl": "https://sr2.inmystream.it/proxy/rscitalia?mp=/stream",
+    "album": "Catania, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-vgKTQk8r",
+    "website": "https://www.veneziaradiotv.it/radio-venezia/",
+    "title": "Radio Venezia 92.4 FM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=veneziaradiotv.it&sz=256",
+    "streamUrl": "https://audio.streamshow.it/proxy/rveradiocheballa?mp=/stream",
+    "album": "Venice, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-cOfTchpa",
+    "website": "http://www.radioverona.it",
+    "title": "Radio Verona",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radioverona.it&sz=256",
+    "streamUrl": "https://ice04.fluidstream.net/fluid0405.mp3",
+    "album": "Verona, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-2KhVaIcY",
+    "website": "https://www.radiopadova.com",
+    "title": "Radio Padova",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiopadova.com&sz=256",
+    "streamUrl": "https://sphera.fluidstream.eu/rpd.mp3",
+    "album": "Noventa Padovana, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-r2M0CIjt",
+    "website": "https://www.radiolina.it",
+    "title": "Radiolina",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiolina.it&sz=256",
+    "streamUrl": "https://streaming.shoutcast.com/radiolina",
+    "album": "Cagliari, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "italy",
+    "id": "it-SYx3G32P",
+    "website": "https://www.radioarancia.it",
+    "title": "Radio Arancia",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radioarancia.it&sz=256",
+    "streamUrl": "https://stream3.xdevel.com/audio0s975447-156/stream/icecast.audio",
+    "album": "Ancona, Italy"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-fqwA9Cxk",
+    "website": "https://www.rte.ie/radio/radio1",
+    "title": "RTE Radio 1",
+    "artUrl": "https://www.google.com/s2/favicons?domain=rte.ie&sz=256",
+    "streamUrl": "https://icecast.rte.ie/radio1",
+    "album": "Dublin, Ireland"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-4v2sLRQX",
+    "website": "http://www.rixfm.com/",
+    "title": "Rix FM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=rixfm.com&sz=256",
+    "streamUrl": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "album": "Stockholm, Sweden"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-BlJY41MK",
+    "website": "https://radio.nrk.no",
+    "title": "NRK Alltid Nyheter",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radio.nrk.no&sz=256",
+    "streamUrl": "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h",
+    "album": "Oslo, Norway"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-PfxGZa0B",
+    "website": "http://www.dr.dk/p3",
+    "title": "DR P3",
+    "artUrl": "https://www.google.com/s2/favicons?domain=dr.dk&sz=256",
+    "streamUrl": "https://live-icy.gss.dr.dk/A/A05H.mp3",
+    "album": "Copenhagen, Denmark"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-iN0aGtZs",
+    "website": "https://areena.yle.fi/podcastit/ohjelmat/yle-radio-suomi",
+    "title": "YLE Radio Suomi Helsinki",
+    "artUrl": "https://www.google.com/s2/favicons?domain=areena.yle.fi&sz=256",
+    "streamUrl": "https://icecast.live.yle.fi/radio/YleRS/icecast.audio",
+    "album": "Helsinki, Finland"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-kF06RKTW",
+    "website": "https://oe3.orf.at",
+    "title": "ORF Hitradio O3",
+    "artUrl": "https://www.google.com/s2/favicons?domain=oe3.orf.at&sz=256",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/oe3-q1a",
+    "album": "Vienna, Austria"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-EwiN37X4",
+    "website": "https://www.evropa2.cz",
+    "title": "Evropa2",
+    "artUrl": "https://www.google.com/s2/favicons?domain=evropa2.cz&sz=256",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac",
+    "album": "Prague, Czechia"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-wg1BMlyO",
+    "website": "https://www.radiozet.pl",
+    "title": "Radio ZET",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiozet.pl&sz=256",
+    "streamUrl": "https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=radiogarden&app=none&coding=mp3&redirect=true",
+    "album": "Warsaw, Poland"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-Z3mEL1oa",
+    "website": "https://www.melodia.gr",
+    "title": "Melodia FM 99.2",
+    "artUrl": "https://www.google.com/s2/favicons?domain=melodia.gr&sz=256",
+    "streamUrl": "https://stream.radiojar.com/8du64725e3quv",
+    "album": "Athens, Greece"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-sxjsDFZP",
+    "website": "http://www.kfm.co.za",
+    "title": "Kfm 94.5",
+    "artUrl": "https://www.google.com/s2/favicons?domain=kfm.co.za&sz=256",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAAC.aac",
+    "album": "Cape Town, South Africa"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-f3vCQTXc",
+    "website": "https://www.radio47.fm",
+    "title": "Radio 47",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radio47.fm&sz=256",
+    "streamUrl": "https://streaming.shoutcast.com/radio-47",
+    "album": "Nairobi, Kenya"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-sG9ZZzTf",
+    "website": "http://radiocity.in/",
+    "title": "Kishore Kumar Radio",
+    "artUrl": "https://www.google.com/s2/favicons?domain=radiocity.in&sz=256",
+    "streamUrl": "https://stream.zeno.fm/0ghtfp8ztm0uv",
+    "album": "Mumbai, India"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-odq4wZN4",
+    "website": "https://atime.live/greenwave",
+    "title": "Greenwave 106.5",
+    "artUrl": "https://www.google.com/s2/favicons?domain=atime.live&sz=256",
+    "streamUrl": "https://atimeonline2.smartclick.co.th/green",
+    "album": "Bangkok, Thailand"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-9KPaQG2C",
+    "website": "https://www.melisten.sg/radio/class-95",
+    "title": "Class 95 95.0 FM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=melisten.sg&sz=256",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+    "album": "Singapore, Singapore"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-dBRRCgnp",
+    "website": "http://programme.rthk.hk/channel/radio/index.php?c=radio1",
+    "title": "RTHK Radio 1",
+    "artUrl": "https://www.google.com/s2/favicons?domain=programme.rthk.hk&sz=256",
+    "streamUrl": "https://stm.rthk.hk/radio1",
+    "album": "Hong Kong, Hong Kong"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-NZYf7QsQ",
+    "website": "https://www.pramborsfm.com",
+    "title": "Prambors FM 102.2",
+    "artUrl": "https://www.google.com/s2/favicons?domain=pramborsfm.com&sz=256",
+    "streamUrl": "https://stream.rcs.revma.com/h77wwp48kxcwv",
+    "album": "Jakarta, Indonesia"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-GqF4MoVB",
+    "website": "https://95bfm.com",
+    "title": "95bFM",
+    "artUrl": "https://www.google.com/s2/favicons?domain=95bfm.com&sz=256",
+    "streamUrl": "https://streams.95bfm.com/stream128",
+    "album": "Auckland, New Zealand"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-llG9hg9i",
+    "website": "https://www.biobiochile.cl",
+    "title": "Bio-Bio FM 99.7",
+    "artUrl": "https://www.google.com/s2/favicons?domain=biobiochile.cl&sz=256",
+    "streamUrl": "https://redirector.dps.live/biobiosantiago/aac/icecast.audio",
+    "album": "Santiago, Chile"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-dmS6OyZh",
+    "website": "https://rpp.pe",
+    "title": "RPP Noticias",
+    "artUrl": "https://www.google.com/s2/favicons?domain=rpp.pe&sz=256",
+    "streamUrl": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio?property=garden",
+    "album": "Lima, Peru"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-QLobgLBk",
+    "website": "https://www.bluradio.com",
+    "title": "Blu Radio",
+    "artUrl": "https://www.google.com/s2/favicons?domain=bluradio.com&sz=256",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac",
+    "album": "Bogota, Colombia"
+  },
+  {
+    "artist": "Radio Garden",
+    "section": "world",
+    "id": "world-gmw6jFf4",
+    "website": "https://mundour.com/live-exitos/",
+    "title": "Exitos FM 99.9",
+    "artUrl": "https://www.google.com/s2/favicons?domain=mundour.com&sz=256",
+    "streamUrl": "https://acp4.lorini.net:2070/stream",
+    "album": "Caracas, Venezuela"
   }
 ]
